@@ -1,0 +1,15 @@
+{
+  "name": "wecom",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@wecom/crypto": "^1.0.0",
+    "body-parser": "^1.19.0",
+    "body-parser-xml": "^2.0.1",
+    "express": "^4.17.1",
+    "ipware": "^2.0.0",
+    "node-work-wechat": "^0.2.0",
+    "wechat": "^2.1.0"
+  }
+}
